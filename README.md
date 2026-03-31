@@ -34,11 +34,11 @@ cd flowpinns
 Install dependencies using conda:
 
 ```
-conda create -n flowpinn-env python=3.10
+conda create -n flowpinns-env python=3.10
 ```
 
 ```
-conda activate flowpinn-env
+conda activate flowpinns-env
 ```
 
 ```
